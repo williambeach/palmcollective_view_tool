@@ -20,8 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-```
-PalmCollectiveViewTool::Renderer.copyright 'Palm Collective', 'All rights reserved'
+```ruby
+	PalmCollectiveViewTool::Renderer.copyright 'Palm Collective', 'All rights reserved' 
 ```
 
 ## Development

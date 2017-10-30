@@ -1,4 +1,4 @@
-RSpec.describe PalmcollectiveViewTool do
+RSpec.describe PalmCollectiveViewTool do
   it "has a version number" do
     expect(PalmcollectiveViewTool::VERSION).not_to be nil
   end
