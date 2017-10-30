@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-PalmcollectiveViewTool::Renderer.copyright 'Palm Collective', 'All rights reserved'
+PalmCollectiveViewTool::Renderer.copyright 'Palm Collective', 'All rights reserved'
 ```
 
 ## Development
