@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["william@palmcollective.io"]
 
   spec.summary       = %q{View-specific method for real-time copyright in rails applications.}
-  spec.description   = %q{Provides html safe data for Rails applications.}
+  spec.description   = %q{View-specific method for real-time copyright in rails applications}
   spec.homepage      = "http://palmcollective.io"
   spec.license       = "MIT"
 

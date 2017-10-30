@@ -23,6 +23,15 @@ Or install it yourself as:
 ```ruby
 PalmCollectiveViewTool::Renderer.copyright 'Palm Collective', 'All rights reserved'
 ```
+Define a method in your application_helper.rb file under your helper directory with 
+
+PalmCollectiveViewTool::Renderer.copyright 'your_company_name_example', 'All rights reserved'
+
+Call method in your application.html.erb file in your layouts directory. For example:
+
+> <p><%= copyright_generator %></p> 
+
+where copyright_generator is the method name I've defined. 
 
 ## Development
 
