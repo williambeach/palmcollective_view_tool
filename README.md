@@ -18,6 +18,11 @@ Or install it yourself as:
 
     $ gem install palmcollective_view_tool
 
+## Usage
+
+```
+PalmCollectiveViewTool::Renderer.copyright 'Palm Collective', 'All rights reserved'
+```
 
 ## Development
 
